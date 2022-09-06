@@ -72,9 +72,10 @@ python main.py
 ```
 A window will pop up. Add your first contact by clicking the button in the top right. As contacts are added, you can click on the names to view their information or make changes. 
 ![ViewContacts](https://github.com/Cate-Lukner/callback-phonebook/blob/main/documentation_screenshots/temporary_viewcontacts_window.png?raw=true)
-[![2022-09-06-235031.jpg](https://i.postimg.cc/4NKPd4n3/2022-09-06-235031.jpg)](https://postimg.cc/tYjWvj30 =250x250)
-[![2022-09-06-235049.jpg](https://i.postimg.cc/ZYX76vGN/2022-09-06-235049.jpg =250x250)](https://postimg.cc/6TLfXq56)
-[![2022-09-06-234347.jpg](https://i.postimg.cc/g0vmPP3S/2022-09-06-234347.jpg =250x250)](https://postimg.cc/Jy49bv6Z)
+
+[![2022-09-06-235031.jpg](https://i.postimg.cc/4NKPd4n3/2022-09-06-235031.jpg)](https://postimg.cc/tYjWvj30 =500x250)
+[![2022-09-06-235049.jpg](https://i.postimg.cc/ZYX76vGN/2022-09-06-235049.jpg )](https://postimg.cc/6TLfXq56 =500x250)
+[![2022-09-06-234347.jpg](https://i.postimg.cc/g0vmPP3S/2022-09-06-234347.jpg )](https://postimg.cc/Jy49bv6Z =500x250)
 
 ## Team Members
 **Project Manager** [Catherine Lukner](https://github.com/Cate-Lukner)  
